@@ -1,0 +1,6 @@
+{
+  "name": "MINI SUMO TITAN - Control de Combate",
+  "description": "Aplicación de control y telemetría en tiempo real para el robot de combate Mini Sumo TITAN (500g) vía Bluetooth BLE y Wi-Fi WebSocket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
